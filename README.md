@@ -1,0 +1,2 @@
+# angular
+Conocimientos en angular 
